@@ -8,7 +8,7 @@ class Calculate:
     return rest
 
   def multiplicar (num1,num2):
-    multi = int(num1) * int(num2)
+    multi = num1 * num2
     return multi
   
   def division (num1,num2):
